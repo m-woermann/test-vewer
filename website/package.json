@@ -1,0 +1,19 @@
+{
+  "name": "three-js-viewer",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^3.0.0",
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.157.0"
+  }
+}

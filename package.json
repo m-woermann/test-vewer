@@ -1,0 +1,17 @@
+{
+  "name": "threejs-viewer-astro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@types/three": "^0.180.0",
+    "astro": "^3.0.0",
+    "three": "^0.157.0"
+  }
+}
